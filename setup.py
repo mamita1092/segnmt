@@ -15,7 +15,7 @@ setup(
     version='0.1.0',
     packages=find_packages(),
     requires=[
-        'chainer>=2.1.0',
+        'chainer',
         'matplotlib',
         'nltk',
         'progressbar2',
